@@ -4,4 +4,5 @@ namespace Openstate;
 
 class Client
 {
+
 }
