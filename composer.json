@@ -12,8 +12,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0",
-        "kriswallsmith/buzz": "dev-master"
+        "php": ">=5.3.0"
     },
     "autoload": {
         "psr-0": {"Openstate\\": "lib/"}
